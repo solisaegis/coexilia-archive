@@ -1,6 +1,3 @@
-# coexilia-archive
-Archival mirror of Coexilia reference documents. This repository exists for preservation and redundancy only. Canonical records are hosted on the Internet Archive and Zenodo.
-
 # Coexilia — Archival Mirror
 
 This repository provides a static archival mirror of selected Coexilia documents.
