@@ -51,4 +51,17 @@ https://coexilia.io/
 
 ---
 
+## Archival Navigation
+
+This repository serves as a read-only mirror of the Coexilia corpus for redundancy and accessibility.
+
+A non-canonical, human-readable directory describing document scope, mirrors, and archival context is available at:
+
+https://coexilia.io/coexilian-documents/
+
+The directory is informational only and does not supersede independent archival records (Internet Archive and Zenodo).
+
+
+---
+
 This repository is maintained as a passive mirror. No active development is planned.
