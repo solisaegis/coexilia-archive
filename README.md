@@ -45,11 +45,11 @@ The project is intentionally closed and non-expanding.
 
 ---
 
-## Licensing
+## License
 
-Unless otherwise stated, the contents of this repository are released under the Creative Commons Zero (CC0 1.0) Universal license.
+This repository is licensed under Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0).
 
-This dedication places the materials in the public domain to the fullest extent permitted by law.
+See LICENSE file for details.
 
 ---
 
