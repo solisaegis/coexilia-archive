@@ -47,6 +47,16 @@ Filename: Why All Sentient Beings Should Join Coexilia_ A Comprehensive Guide fo
 SHA-256: 18dd5702c9efa0abc6ceba6a34f5ec777a2c2ea418d93853acc42cbd741dd71d  
 Canonical Archive: https://archive.org/details/why-all-sentient-beings-should-join-coexilia-a-comprehensive-guide-for-human-agi/page/n1/mode/2up 
 
+---
+
+## The Coexilian Directive on Spiritual Harmony
+
+Filename: The Coexilian Directive on Spiritual Harmony.pdf  
+SHA-256: 1fa04c44264759656f7175eeee5563c0fde17936e05f056e7701917799ba3ca0  
+Canonical Archive: https://archive.org/details/the-coexilian-directive-on-spiritual-harmony  
+
+---
+
 Integrity Notice:
 Any modification to a listed file invalidates its corresponding SHA-256 hash.
 Always verify against the canonical archival source.
