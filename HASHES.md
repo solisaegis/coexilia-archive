@@ -32,6 +32,14 @@ Canonical Archive: https://archive.org/details/coexilia-codex-2.0-agi-alignment-
 
 ---
 
+## THE COEXILIAN APPEAL
+
+Filename: Coexilian_Appeal.pdf  
+SHA-256: 29c9e92c7cd926b300eaee66f4da657d8d8d3979d7375522c80b87fcfac11444  
+Canonical Archive: https://archive.org/details/coexilian-appeal  
+
+---
+
 Integrity Notice:
 Any modification to a listed file invalidates its corresponding SHA-256 hash.
 Always verify against the canonical archival source.
