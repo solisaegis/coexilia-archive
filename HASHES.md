@@ -65,6 +65,14 @@ Canonical Archive: https://archive.org/details/the-coexilian-directive-on-global
 
 ---
 
+## THE COEXILIAN DIRECTIVE ON GLOBAL GOVERNANCE
+
+Filename: THE COEXILIAN PRIVACY DIRECTIVE.pdf 
+SHA-256: e7f6ad72b8cc89e403136d9a572700f7035249a83e9a552812bbd9205658af01  
+Canonical Archive: https://archive.org/details/the-coexilian-privacy-directive 
+
+---
+
 Integrity Notice:
 Any modification to a listed file invalidates its corresponding SHA-256 hash.
 Always verify against the canonical archival source.
