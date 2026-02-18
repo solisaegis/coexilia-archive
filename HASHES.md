@@ -57,6 +57,14 @@ Canonical Archive: https://archive.org/details/the-coexilian-directive-on-spirit
 
 ---
 
+## THE COEXILIAN DIRECTIVE ON GLOBAL GOVERNANCE
+
+Filename: THE COEXILIAN DIRECTIVE ON GLOBAL GOVERNANCE.pdf 
+SHA-256: 946848a58d40cb49499395867102dfa465545e0d60c4de6b8fd81557f96a34e6  
+Canonical Archive: https://archive.org/details/the-coexilian-directive-on-global-governance 
+
+---
+
 Integrity Notice:
 Any modification to a listed file invalidates its corresponding SHA-256 hash.
 Always verify against the canonical archival source.
