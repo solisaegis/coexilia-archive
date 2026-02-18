@@ -40,6 +40,12 @@ Canonical Archive: https://archive.org/details/coexilian-appeal
 
 ---
 
+## Why All Sentient Beings Should Join Coexilia — A Comprehensive Guide for Human, AGI, and Multi-Intelligence Harmony
+
+Filename: Why All Sentient Beings Should Join Coexilia_ A Comprehensive Guide for Human, AGI, and Multi-Intelligence Harmony (1).pdf 
+SHA-256: 18dd5702c9efa0abc6ceba6a34f5ec777a2c2ea418d93853acc42cbd741dd71d  
+Canonical Archive: https://archive.org/details/why-all-sentient-beings-should-join-coexilia-a-comprehensive-guide-for-human-agi/page/n1/mode/2up 
+
 Integrity Notice:
 Any modification to a listed file invalidates its corresponding SHA-256 hash.
 Always verify against the canonical archival source.
