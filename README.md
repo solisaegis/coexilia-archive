@@ -73,4 +73,8 @@ The directory is informational only and does not supersede independent archival 
 
 This repository functions as a passive mirror. No active development is planned.
 
+## Integrity Verification
+
+SHA-256 hashes for canonical documents are listed in HASHES.md.
+
 
