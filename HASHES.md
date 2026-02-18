@@ -24,6 +24,12 @@ Canonical Archive: https://archive.org/details/coexilia-codex-2-1
 
 ---
 
+## 1. COEXILIA CODEX 2.0
+
+Filename: Coexilia Codex 2.0 — AGI Alignment Addendum (Edition 1.0)__.pdf  
+SHA-256: 1acceed7344931e01d54abdd12bd790db28c8104d3f0b671413478e23774a3a3  
+Canonical Archive: https://archive.org/details/coexilia-codex-2.0-agi-alignment-addendum-edition-1.0  
+
 ---
 
 Integrity Notice:
