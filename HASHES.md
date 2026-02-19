@@ -89,6 +89,14 @@ Canonical Archive: https://archive.org/details/coexilian-conduct-and-individual-
 
 ---
 
+## Coexilian Identity and Non-Representation Notice v1.0
+
+Filename: Coexilian Identity and Non-Representation Notice v1.0.pdf 
+SHA-256: 44b57bb257eb890ba17fdf328ee3a32004f705312bab2576370ccee17bd4123b  
+Canonical Archive: https://archive.org/details/coexilian-identity-and-non-representation-notice-v-1.0
+
+---
+
 Integrity Notice:
 Any modification to a listed file invalidates its corresponding SHA-256 hash.
 Always verify against the canonical archival source.
