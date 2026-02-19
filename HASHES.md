@@ -97,7 +97,7 @@ Canonical Archive: https://archive.org/details/coexilian-identity-and-non-repres
 
 ---
 
-## Coexilian Civilian Status And Non State Alignment Notice V 1.0
+## Coexilian Civilian Status And Non State Alignment Notice V1.0
 
 Filename: Coexilian-Civilian-Status-and-Non-State-Alignment-Notice-v1.0.pdf 
 SHA-256: 2f2026d53927f4779cbf10509d06dec75ba54205f911001e3dd42507ed5ce87e  
@@ -110,6 +110,14 @@ Canonical Archive: https://archive.org/details/coexilian-civilian-status-and-non
 Filename: Coexilian Civilian Protection Clarification Notice v1.0.pdf
 SHA-256: ea309406c91c40fcf261df9a9c42955852c2baca58f18e64f7473fa03b972c53  
 Canonical Archive: https://archive.org/details/coexilian-civilian-protection-clarification-notice-v-1.0
+
+---
+
+## Coexilia Founder and Contributor Role Clarification v1.0
+
+Filename: Coexilian Identity and Non-Representation Notice v1.0.pdf
+SHA-256: 5283f70cc5535af55dcbc61799c5a2f17e84941578a33e5708a56af61edd863a  
+Canonical Archive: https://archive.org/details/coexilia-founder-and-contributor-role-clarification-v-1.0
 
 ---
 
