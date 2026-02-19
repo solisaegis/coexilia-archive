@@ -97,6 +97,14 @@ Canonical Archive: https://archive.org/details/coexilian-identity-and-non-repres
 
 ---
 
+## Coexilian Civilian Status And Non State Alignment Notice V 1.0
+
+Filename: Coexilian-Civilian-Status-and-Non-State-Alignment-Notice-v1.0.pdf 
+SHA-256: 2f2026d53927f4779cbf10509d06dec75ba54205f911001e3dd42507ed5ce87e  
+Canonical Archive: https://archive.org/details/coexilian-civilian-status-and-non-state-alignment-notice-v-1.0
+
+---
+
 Integrity Notice:
 Any modification to a listed file invalidates its corresponding SHA-256 hash.
 Always verify against the canonical archival source.
