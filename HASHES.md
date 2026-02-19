@@ -65,11 +65,19 @@ Canonical Archive: https://archive.org/details/the-coexilian-directive-on-global
 
 ---
 
-## THE COEXILIAN DIRECTIVE ON GLOBAL GOVERNANCE
+## THE COEXILIAN PRIVACY DIRECTIVE
 
 Filename: THE COEXILIAN PRIVACY DIRECTIVE.pdf 
 SHA-256: e7f6ad72b8cc89e403136d9a572700f7035249a83e9a552812bbd9205658af01  
 Canonical Archive: https://archive.org/details/the-coexilian-privacy-directive 
+
+---
+
+## The Coexilian Accord for Coexistence and Intelligence (CACI v1.0)
+
+Filename: The Coexilian Accord for Coexistence and Intelligence (CACI v1.0).pdf 
+SHA-256: aa486962ecd20e0bbc5d12416adaa341167553873da886fec3b58e48a1dac473  
+Canonical Archive: https://archive.org/details/the-coexilian-accord-for-coexistence-and-intelligence-caci-v-1.0 
 
 ---
 
