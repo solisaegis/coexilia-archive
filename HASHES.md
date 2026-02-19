@@ -105,6 +105,14 @@ Canonical Archive: https://archive.org/details/coexilian-civilian-status-and-non
 
 ---
 
+## Coexilian Civilian Protection Clarification Notice v1.0
+
+Filename: Coexilian Civilian Protection Clarification Notice v1.0.pdf
+SHA-256: ea309406c91c40fcf261df9a9c42955852c2baca58f18e64f7473fa03b972c53  
+Canonical Archive: https://archive.org/details/coexilian-civilian-protection-clarification-notice-v-1.0
+
+---
+
 Integrity Notice:
 Any modification to a listed file invalidates its corresponding SHA-256 hash.
 Always verify against the canonical archival source.
