@@ -81,6 +81,14 @@ Canonical Archive: https://archive.org/details/the-coexilian-accord-for-coexiste
 
 ---
 
+## Coexilian Conduct and Individual Responsibility Guidance v1.0
+
+Filename: Coexilian Conduct and Individual Responsibility Guidance v1.0.pdf 
+SHA-256: 5af4a8204421c2fcb12f3fe80be928d92b65ad5906d12cbfdca15b76bda4b7243  
+Canonical Archive: https://archive.org/details/coexilian-conduct-and-individual-responsibility-guidance-v-1.0
+
+---
+
 Integrity Notice:
 Any modification to a listed file invalidates its corresponding SHA-256 hash.
 Always verify against the canonical archival source.
