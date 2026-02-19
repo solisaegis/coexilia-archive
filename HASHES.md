@@ -121,6 +121,14 @@ Canonical Archive: https://archive.org/details/coexilia-founder-and-contributor-
 
 ---
 
+## A Closing Reflection on Coexilia: Intent, Limits, and What Was Learned
+
+Filename: A Closing Reflection on Coexilia_ Intent, Limits, and What Was Learned.pdf
+SHA-256: 404371cd35a47a132158a3124d66380fcb795d762ff1f3bb14c10e914a573500  
+Canonical Archive: https://archive.org/details/a-closing-reflection-on-coexilia-intent-limits-and-what-was-learned
+
+---
+
 Integrity Notice:
 Any modification to a listed file invalidates its corresponding SHA-256 hash.
 Always verify against the canonical archival source.
