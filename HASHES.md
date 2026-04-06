@@ -16,6 +16,23 @@ Canonical Archive Reference
 
 ---
 
+# Coexilia Hashes
+
+## Canonical Reference (IMPORTANT)
+
+The official, immutable reference for all document hashes is:
+
+**COEXILIA — MASTER HASH MANIFEST (v1.0)**
+
+SHA-256 (Manifest PDF):
+77c21acab1da19fa9ec2acd279a18f5488c74b60a8d5d7d774dd2b849020c42c
+
+Primary records:
+- Internet Archive: https://archive.org/details/coexilia-master-hash-manifest-v-1.0
+- Zenodo (DOI): https://zenodo.org/records/19445211
+
+This file (HASHES.md) is provided for convenience only and must not be treated as canonical.
+
 ## COEXILIA CODEX 2.0
 
 Filename: 🌟 COEXILIA CODEX 2-1.pdf  
