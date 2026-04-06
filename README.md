@@ -34,6 +34,27 @@ The files in this repository are provided for convenience and redundancy only.
 
 ---
 
+## Integrity Verification (IMPORTANT)
+
+The official, immutable reference for all document hashes is:
+
+**COEXILIA — MASTER HASH MANIFEST (v1.0)**
+
+SHA-256 (Manifest PDF):  
+77c21acab1da19fa9ec2acd279a18f5488c74b60a8d5d7d774dd2b849020c42c
+
+Primary records:
+- Internet Archive: https://archive.org/details/coexilia-master-hash-manifest-v-1.0  
+- Zenodo (DOI): https://zenodo.org/records/19445211  
+
+This manifest provides a complete cryptographic snapshot of the Coexilia corpus.
+
+The file `HASHES.md` in this repository is provided for convenience only and must not be treated as canonical.
+
+Any discrepancy between files and the manifest should be resolved in favor of the canonical archival records.
+
+---
+
 ## Scope and Limits
 
 This repository does not issue directives or guidance.  
@@ -72,9 +93,4 @@ https://coexilia.io/coexilian-documents/
 The directory is informational only and does not supersede independent archival records (Internet Archive and Zenodo).
 
 This repository functions as a passive mirror. No active development is planned.
-
-## Integrity Verification
-
-SHA-256 hashes for canonical documents are listed in HASHES.md.
-
 
