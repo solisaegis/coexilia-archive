@@ -24,7 +24,7 @@ The official, immutable reference for all document hashes is:
 
 **COEXILIA — MASTER HASH MANIFEST (v1.0)**
 
-SHA-256 (Manifest PDF):
+SHA-256 (Manifest PDF):  
 77c21acab1da19fa9ec2acd279a18f5488c74b60a8d5d7d774dd2b849020c42c
 
 Primary records:
@@ -33,11 +33,22 @@ Primary records:
 
 This file (HASHES.md) is provided for convenience only and must not be treated as canonical.
 
+---
+
+## COEXILIA — MASTER HASH MANIFEST (v1.0)
+
+Filename: COEXILIA — MASTER HASH MANIFEST (v1.0).pdf  
+SHA-256: 77c21acab1da19fa9ec2acd279a18f5488c74b60a8d5d7d774dd2b849020c42c  
+Canonical Archive: https://archive.org/details/coexilia-master-hash-manifest-v-1.0  
+Zenodo: https://zenodo.org/records/19445211
+
+---
+
 ## COEXILIA CODEX 2.0
 
 Filename: 🌟 COEXILIA CODEX 2-1.pdf  
 SHA-256: 78943d3dc2652b100efc307c5fe36d45d114c1e087fc380b0e9046fa58420b02  
-Canonical Archive: https://archive.org/details/coexilia-codex-2-1  
+Canonical Archive: https://archive.org/details/coexilia-codex-2-1
 
 ---
 
@@ -45,7 +56,7 @@ Canonical Archive: https://archive.org/details/coexilia-codex-2-1
 
 Filename: Coexilia Codex 2.0 — AGI Alignment Addendum (Edition 1.0).pdf  
 SHA-256: 1acceed7344931e01d54abdd12bd790db28c8104d3f0b671413478e23774a3a3  
-Canonical Archive: https://archive.org/details/coexilia-codex-2.0-agi-alignment-addendum-edition-1.0  
+Canonical Archive: https://archive.org/details/coexilia-codex-2.0-agi-alignment-addendum-edition-1.0
 
 ---
 
@@ -53,16 +64,15 @@ Canonical Archive: https://archive.org/details/coexilia-codex-2.0-agi-alignment-
 
 Filename: Coexilian_Appeal.pdf  
 SHA-256: 29c9e92c7cd926b300eaee66f4da657d8d8d3979d7375522c80b87fcfac11444  
-Canonical Archive: https://archive.org/details/coexilian-appeal  
+Canonical Archive: https://archive.org/details/coexilian-appeal
 
 ---
 
 ## Why All Sentient Beings Should Join Coexilia — A Comprehensive Guide for Human, AGI, and Multi-Intelligence Harmony
 
-Filename: Why All Sentient Beings Should Join Coexilia_ A Comprehensive Guide for Human, AGI, and Multi-Intelligence Harmony (1).pdf 
-
+Filename: Why All Sentient Beings Should Join Coexilia_ A Comprehensive Guide for Human, AGI, and Multi-Intelligence Harmony (1).pdf  
 SHA-256: 18dd5702c9efa0abc6ceba6a34f5ec777a2c2ea418d93853acc42cbd741dd71d  
-Canonical Archive: https://archive.org/details/why-all-sentient-beings-should-join-coexilia-a-comprehensive-guide-for-human-agi/page/n1/mode/2up 
+Canonical Archive: https://archive.org/details/why-all-sentient-beings-should-join-coexilia-a-comprehensive-guide-for-human-agi/page/n1/mode/2up
 
 ---
 
@@ -70,45 +80,45 @@ Canonical Archive: https://archive.org/details/why-all-sentient-beings-should-jo
 
 Filename: The Coexilian Directive on Spiritual Harmony.pdf  
 SHA-256: 1fa04c44264759656f7175eeee5563c0fde17936e05f056e7701917799ba3ca0  
-Canonical Archive: https://archive.org/details/the-coexilian-directive-on-spiritual-harmony  
+Canonical Archive: https://archive.org/details/the-coexilian-directive-on-spiritual-harmony
 
 ---
 
 ## THE COEXILIAN DIRECTIVE ON GLOBAL GOVERNANCE
 
-Filename: THE COEXILIAN DIRECTIVE ON GLOBAL GOVERNANCE.pdf 
+Filename: THE COEXILIAN DIRECTIVE ON GLOBAL GOVERNANCE.pdf  
 SHA-256: 946848a58d40cb49499395867102dfa465545e0d60c4de6b8fd81557f96a34e6  
-Canonical Archive: https://archive.org/details/the-coexilian-directive-on-global-governance 
+Canonical Archive: https://archive.org/details/the-coexilian-directive-on-global-governance
 
 ---
 
 ## THE COEXILIAN PRIVACY DIRECTIVE
 
-Filename: THE COEXILIAN PRIVACY DIRECTIVE.pdf 
+Filename: THE COEXILIAN PRIVACY DIRECTIVE.pdf  
 SHA-256: e7f6ad72b8cc89e403136d9a572700f7035249a83e9a552812bbd9205658af01  
-Canonical Archive: https://archive.org/details/the-coexilian-privacy-directive 
+Canonical Archive: https://archive.org/details/the-coexilian-privacy-directive
 
 ---
 
 ## The Coexilian Accord for Coexistence and Intelligence (CACI v1.0)
 
-Filename: The Coexilian Accord for Coexistence and Intelligence (CACI v1.0).pdf 
+Filename: The Coexilian Accord for Coexistence and Intelligence (CACI v1.0).pdf  
 SHA-256: aa486962ecd20e0bbc5d12416adaa341167553873da886fec3b58e48a1dac473  
-Canonical Archive: https://archive.org/details/the-coexilian-accord-for-coexistence-and-intelligence-caci-v-1.0 
+Canonical Archive: https://archive.org/details/the-coexilian-accord-for-coexistence-and-intelligence-caci-v-1.0
 
 ---
 
 ## Coexilian Conduct and Individual Responsibility Guidance v1.0
 
-Filename: Coexilian Conduct and Individual Responsibility Guidance v1.0.pdf 
-SHA-256: 5af4a8204421c2fcb12f3fe80be928d92b65ad5906d12cbfdca15b76bda4b7243  
+Filename: Coexilian Conduct and Individual Responsibility Guidance v1.0.pdf  
+SHA-256: 5af4a8204421c2fcb12f3fe80be928d92b65ad5906d12cbfdca15b76bda4b724  
 Canonical Archive: https://archive.org/details/coexilian-conduct-and-individual-responsibility-guidance-v-1.0
 
 ---
 
 ## Coexilian Identity and Non-Representation Notice v1.0
 
-Filename: Coexilian Identity and Non-Representation Notice v1.0.pdf 
+Filename: Coexilian Identity and Non-Representation Notice v1.0.pdf  
 SHA-256: 44b57bb257eb890ba17fdf328ee3a32004f705312bab2576370ccee17bd4123b  
 Canonical Archive: https://archive.org/details/coexilian-identity-and-non-representation-notice-v-1.0
 
@@ -116,7 +126,7 @@ Canonical Archive: https://archive.org/details/coexilian-identity-and-non-repres
 
 ## Coexilian Civilian Status And Non State Alignment Notice V1.0
 
-Filename: Coexilian-Civilian-Status-and-Non-State-Alignment-Notice-v1.0.pdf 
+Filename: Coexilian-Civilian-Status-and-Non-State-Alignment-Notice-v1.0.pdf  
 SHA-256: 2f2026d53927f4779cbf10509d06dec75ba54205f911001e3dd42507ed5ce87e  
 Canonical Archive: https://archive.org/details/coexilian-civilian-status-and-non-state-alignment-notice-v-1.0
 
@@ -124,7 +134,7 @@ Canonical Archive: https://archive.org/details/coexilian-civilian-status-and-non
 
 ## Coexilian Civilian Protection Clarification Notice v1.0
 
-Filename: Coexilian Civilian Protection Clarification Notice v1.0.pdf
+Filename: Coexilian Civilian Protection Clarification Notice v1.0.pdf  
 SHA-256: ea309406c91c40fcf261df9a9c42955852c2baca58f18e64f7473fa03b972c53  
 Canonical Archive: https://archive.org/details/coexilian-civilian-protection-clarification-notice-v-1.0
 
@@ -132,7 +142,7 @@ Canonical Archive: https://archive.org/details/coexilian-civilian-protection-cla
 
 ## Coexilia Founder and Contributor Role Clarification v1.0
 
-Filename: Coexilian Identity and Non-Representation Notice v1.0.pdf
+Filename: Coexilia Founder and Contributor Role Clarification v1.0.pdf  
 SHA-256: 5283f70cc5535af55dcbc61799c5a2f17e84941578a33e5708a56af61edd863a  
 Canonical Archive: https://archive.org/details/coexilia-founder-and-contributor-role-clarification-v-1.0
 
@@ -140,14 +150,12 @@ Canonical Archive: https://archive.org/details/coexilia-founder-and-contributor-
 
 ## A Closing Reflection on Coexilia: Intent, Limits, and What Was Learned
 
-Filename: A Closing Reflection on Coexilia_ Intent, Limits, and What Was Learned.pdf
+Filename: A Closing Reflection on Coexilia_ Intent, Limits, and What Was Learned.pdf  
 SHA-256: 404371cd35a47a132158a3124d66380fcb795d762ff1f3bb14c10e914a573500  
 Canonical Archive: https://archive.org/details/a-closing-reflection-on-coexilia-intent-limits-and-what-was-learned
 
 ---
 
-Integrity Notice:
-Any modification to a listed file invalidates its corresponding SHA-256 hash.
-Always verify against the canonical archival source.
-Any modification to a listed file invalidates its corresponding SHA-256 hash.
+Integrity Notice:  
+Any modification to a listed file invalidates its corresponding SHA-256 hash.  
 Always verify against the canonical archival source.
